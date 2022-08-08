@@ -24,3 +24,4 @@ To use this spammer, you must have installed Python 3 and the following packages
 - Keyboard
 - Mouse
 - Time
+
