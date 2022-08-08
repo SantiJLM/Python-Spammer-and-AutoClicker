@@ -1,6 +1,7 @@
 # Python-Spammer-and-AutoClicker
 
 This is a simple spammer for python. You can use it to send any text to anywhere. To use it, just run the python code and select if you want to spam or autoclick.
+There is also a .exe file generated with the "PyInstaller" package.
 
 # AutoClick
 
