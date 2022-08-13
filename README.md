@@ -5,7 +5,7 @@ There is also a .exe file generated with the "PyInstaller" package.
 
 # AutoClick
 
-To AutoClick, just select the number of clicks and the delay in MS. Then just click "Go"
+To AutoClick, just select the number of clicks and the delay in MS. Then just click "Go". It can reach 8000cps easily just by setting "delay" to 0.
 
 
 # Spam
